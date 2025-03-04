@@ -75,8 +75,10 @@ Anda juga perlu menginstal dan menjalankan API pendukung ini
 
 Saat ini pengujian belum tersedia.
 
-## 📄 Lisnsi
+## 📄 **Lisensi**  
+Proyek ini menggunakan lisensi **MIT**.  
 
-Proyek ini dilisensikan di bawah lisensi **MIT**. Lihat file [LICENSE](LICENSE) untuk informasi lebih lanjut.
+🔥 **Dikembangkan oleh [Lea Alyu/LeaOhyeah](https://github.com/leaohyeah)**  
+
 ---
 

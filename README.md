@@ -76,8 +76,8 @@ Anda juga perlu menginstal dan menjalankan API pendukung ini
 Saat ini pengujian belum tersedia.
 
 ## 📄 **Lisensi**  
-Proyek ini menggunakan lisensi **MIT**.  
-
+Proyek ini menggunakan lisensi **CCBY v4.0**.
+**Detail Lisensi Dapat diakses dalam laman (https://creativecommons.org/licenses/by/4.0/legalcode)**  
 🔥 **Dikembangkan oleh [Lea Alyu/LeaOhyeah](https://github.com/leaohyeah)**  
 
 ---
